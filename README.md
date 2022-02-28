@@ -1,5 +1,4 @@
-# unit13-challenge
-*Advisor bot using AWS *
+# Advisor bot using AWS
 
 Since machine learning and NLP are disrupting finance to improve customer experience, I decided to create a robo advisor that could be used by customers or potential new customers to get investment portfolio recommendations for retirement. 
 
